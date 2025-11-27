@@ -26,7 +26,8 @@
  * Find and return the single mapped address within the range [low_bound, upper_bound).
  */
 
-  // still working on completing it , will push once completed this part.
+  // note:
+  // this part of challenge is still incomplete, will update after complition.
 
 
 uint64_t speculative_probing_gadget(uint64_t condition, (void*)guess, (void*)controlled_memory):
