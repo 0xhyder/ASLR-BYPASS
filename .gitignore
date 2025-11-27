@@ -10,4 +10,4 @@ build/
 /part3/gadgets.bin
 /part3/gadgets.o
 /part3/part3
-.gdb_history
+**/.gdb_history
